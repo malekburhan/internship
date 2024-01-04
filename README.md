@@ -1,5 +1,4 @@
-# MUSTAFA LANEWALA
-## OIB-SIP Internship Projects
+# OIB-SIP Internship Projects
 ## Intern: Mustafa Lanewala
 
 ## Overview
