@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="todo.css">
+    <title>Smart Task Manager</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Smart Task Manager</h1>
+        <div id="taskInput">
+            <input type="text" id="taskTitle" placeholder="Task title">
+            <input type="text" id="taskDescription" placeholder="Task description">
+            <input type="date" id="taskDueDate">
+            <button onclick="addTask()">Add Task</button>
+        </div>
+        <ul id="taskList"></ul>
+    </div>
+    <div id="overlay" onclick="closePopup()"></div>
+<div id="taskPopup">
+    <p>Task completed!</p>
+    <button onclick="completeTask()">OK</button>
+</div>
+    <script src="todo.js"></script>
+</body>
+</html>
