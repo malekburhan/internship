@@ -3,35 +3,35 @@
 ### Intern: Mustafa Lanewala
 
 ### Overview
-This repository comprises a collection of projects developed during the OIB-SIP internship by Mustafa Lanewala. The projects showcase a range of web development skills and encompass different functionalities, including a Simple Calculator, Todo Web App, Tribute Page, and Login Page.
+This repository encompasses a series of projects developed during the OIB-SIP internship by Mustafa Lanewala. These projects showcase a diverse range of web development skills, featuring a Simple Calculator, Todo Web App, Tribute Page, and Login Page.
 
 ### Projects
-#### 1. Simple Calculator
-**Technology Used:** HTML, CSS, JavaScript
+#### 1. Modern Glassmorphism Calculator
+**Technology Stack:** HTML, CSS, JavaScript
 
-This project is a straightforward web-based calculator designed to perform basic arithmetic operations, featuring a user-friendly interface.
+Developed a modern calculator with a sleek glassmorphism theme, showcasing proficiency in frontend technologies. The calculator is fully functional, providing users with a contemporary computing experience.
 
-#### 2. Todo Web App
-**Technology Used:** HTML, CSS, JavaScript
+#### 2. Neumorphic Todo Web Application
+**Technology Stack:** HTML, CSS, JavaScript
 
-A Todo Web App that enables users to add, edit, and delete tasks. The app also displays pending and completed tasks.
+Crafted a sophisticated Todo Web App with a neumorphic design. Users can input task details, including title and date, and manage their tasks with features like completion and deletion. The intuitive interface enhances the overall user experience.
 
-#### 3. Tribute Page
-**Technology Used:** HTML, CSS
+#### 3. Shah Rukh Khan Tribute Page
+**Technology Stack:** HTML, CSS
 
-A tribute page dedicated to a notable personality, providing information about their life, achievements, and contributions.
+Designed an elegant tribute page dedicated to the iconic Bollywood actor Shah Rukh Khan. The page highlights his achievements and contributions, showcasing clean and aesthetically pleasing HTML/CSS design.
 
-#### 4. Login Page
-**Technology Used:** HTML, CSS, JavaScript
+#### 4. Glassmorphism Login Page with Modal Popup
+**Technology Stack:** HTML, CSS, JavaScript
 
-A basic login page with a clean and responsive design. Users can input their credentials to log in.
+Implemented a professional and secure login/signup page with a modal popup, following the glassmorphism design trend. The seamless integration of HTML, CSS, and JavaScript ensures a smooth and visually pleasing authentication experience.
 
 ### How to Explore
 - Navigate to the specific project folder to access its source code.
-- Follow the project's README for detailed instructions on usage and deployment.
+- Refer to the project's README for detailed instructions on usage and deployment.
 
 ### How to Contribute
-If you would like to contribute to any of the projects, feel free to fork the repository, make your changes, and submit a pull request. Your contributions are highly appreciated!
+If you wish to contribute to any of the projects, fork the repository, make your changes, and submit a pull request. Your contributions are highly appreciated!
 
 ### License
 This repository is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
