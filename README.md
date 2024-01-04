@@ -34,7 +34,7 @@ A basic login page with a clean and responsive design. Users can input their cre
 If you would like to contribute to any of the projects, feel free to fork the repository, make your changes, and submit a pull request. Your contributions are highly appreciated!
 
 ### License
-This repository is licensed under the MIT License - see the LICENSE file for details.
+This repository is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgments
 Special thanks to the OIB-SIP internship program for providing the opportunity to work on these projects and enhance web development skills.
